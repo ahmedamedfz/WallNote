@@ -25,7 +25,6 @@
 		49A7FEE62A1DCE89005B039D /* GalleryModalViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A7FEE52A1DCE89005B039D /* GalleryModalViewModel.swift */; };
 		49A7FEE82A1DD010005B039D /* TextModalViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A7FEE72A1DD010005B039D /* TextModalViewModel.swift */; };
 		49A7FEF02A1E08C0005B039D /* LinkModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A7FEEF2A1E08C0005B039D /* LinkModalView.swift */; };
-		49A7FEF22A1E08D8005B039D /* LinkModalViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A7FEF12A1E08D8005B039D /* LinkModalViewModel.swift */; };
 		49EBA2202A1B68AF0049523C /* MenuButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49EBA21F2A1B68AF0049523C /* MenuButton.swift */; };
 		49EBA2242A1B71D30049523C /* GalleryModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49EBA2232A1B71D30049523C /* GalleryModalView.swift */; };
 		49EBA2262A1B71EA0049523C /* TextModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49EBA2252A1B71EA0049523C /* TextModalView.swift */; };
@@ -51,7 +50,6 @@
 		49A7FEE52A1DCE89005B039D /* GalleryModalViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryModalViewModel.swift; sourceTree = "<group>"; };
 		49A7FEE72A1DD010005B039D /* TextModalViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextModalViewModel.swift; sourceTree = "<group>"; };
 		49A7FEEF2A1E08C0005B039D /* LinkModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkModalView.swift; sourceTree = "<group>"; };
-		49A7FEF12A1E08D8005B039D /* LinkModalViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkModalViewModel.swift; sourceTree = "<group>"; };
 		49EBA21F2A1B68AF0049523C /* MenuButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuButton.swift; sourceTree = "<group>"; };
 		49EBA2232A1B71D30049523C /* GalleryModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryModalView.swift; sourceTree = "<group>"; };
 		49EBA2252A1B71EA0049523C /* TextModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextModalView.swift; sourceTree = "<group>"; };
@@ -163,7 +161,6 @@
 				49EBA2312A1C992C0049523C /* ARViewModel.swift */,
 				49A7FEE72A1DD010005B039D /* TextModalViewModel.swift */,
 				49A7FEE52A1DCE89005B039D /* GalleryModalViewModel.swift */,
-				49A7FEF12A1E08D8005B039D /* LinkModalViewModel.swift */,
 				4981134B2A1FC331003DA940 /* DrawModalViewModel.swift */,
 			);
 			path = ViewModel;
@@ -257,7 +254,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				498113482A1F6E29003DA940 /* UIColorExtension.swift in Sources */,
-				49A7FEF22A1E08D8005B039D /* LinkModalViewModel.swift in Sources */,
 				498A28142A1B5046007E1111 /* ContentView.swift in Sources */,
 				4964185E2A204295006F3E36 /* ImageModel+CoreDataClass.swift in Sources */,
 				498A28122A1B5046007E1111 /* AppDelegate.swift in Sources */,

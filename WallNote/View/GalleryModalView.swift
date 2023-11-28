@@ -7,7 +7,7 @@
 
 import SwiftUI
 import PhotosUI
-import CoreTransferable
+//import CoreTransferable
 
 struct GalleryModalView: View {
     @StateObject var viewModel = GalleryModalViewModel()

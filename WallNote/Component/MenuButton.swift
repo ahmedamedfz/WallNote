@@ -14,7 +14,9 @@ struct MenuButtons<Destination: View>: View {
     @State var isShowingView = false
     
     var body: some View {
-        ZStack{
+        HStack{
+            Spacer()
+            
             Button(action: {
                 isShowingView = true
             }) {
